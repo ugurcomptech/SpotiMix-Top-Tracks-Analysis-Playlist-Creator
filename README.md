@@ -23,9 +23,6 @@ Bu proje, Spotify API'sini kullanarak en çok dinlediğiniz sanatçıları anali
      pip install -r requirements.txt
      ```
 
-     
-## Kullanım
-
 ## Kullanım
 
 1. **Bir Spotify Uygulaması oluşturun ve API kimlik bilgilerinizi alın:**
